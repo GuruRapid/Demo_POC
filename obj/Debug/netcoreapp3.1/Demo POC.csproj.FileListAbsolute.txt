@@ -1,0 +1,65 @@
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Demo POC.exe
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.csprojAssemblyReference.cache
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.AssemblyInfoInputs.cache
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.AssemblyInfo.cs
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.RazorTargetAssemblyInfo.cache
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\staticwebassets\Demo POC.StaticWebAssets.Manifest.cache
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\staticwebassets\Demo POC.StaticWebAssets.xml
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.csproj.CopyComplete
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Demo POC.deps.json
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Demo POC.runtimeconfig.json
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Demo POC.runtimeconfig.dev.json
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Demo POC.dll
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Demo POC.pdb
+G:\Visual Studio\Demo POC\Demo POC\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.csproj.CoreCompileInputs.cache
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.MvcApplicationPartsAssemblyInfo.cache
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.dll
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.pdb
+G:\Visual Studio\Demo POC\Demo POC\obj\Debug\netcoreapp3.1\Demo POC.genruntimeconfig.cache
